@@ -1,0 +1,12 @@
+{
+  "name" : "alk",
+  "displayName" : "Alk Search",
+  "description" : "Search Alk",
+  "examples" : [
+    "alk flashlight",
+    "a flashlight"
+  ],
+  "categories" : [
+    "Utilities"
+  ]
+}
